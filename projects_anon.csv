@@ -1,0 +1,243 @@
+﻿ID,Country,Level of engagement,Status of engagement
+0,Rwanda,Heavy touch,Closed
+1,Nigeria,Light touch,Closed
+2,Nigeria,Light touch,Open
+3,Nigeria,Light touch,Open
+4,Nigeria,Light touch,Open
+5,Cameroon,Light touch,Closed
+6,Togo,None,Cancelled
+7,"Mali, Niger",None,Cancelled
+8,Cameroon,None,Cancelled
+9,"Cameroon, Zambia",Light touch,Closed
+10,Cameroon,Heavy touch,Closed
+11,Cameroon,Heavy touch,Closed
+12,Cameroon,Heavy touch,Closed
+13,Cameroon,Heavy touch,Closed
+14,Kenya,Very light touch/Website,Closed
+15,Uganda,None,Cancelled
+16,Rwanda,None,Open
+17,Rwanda,Heavy touch,Open
+18,Rwanda,Heavy touch,Open
+19,Tanzania,Heavy touch,Closed
+20,Tanzania,Heavy touch,Closed
+21,Madagascar,Heavy touch,Closed
+22,Madagascar,Heavy touch,Closed
+23,Madagascar,Light touch,Closed
+24,Tanzania,Heavy touch,Closed
+25,Uganda,Heavy touch,Closed
+26,Togo,Light touch,Open
+27,DRC,Heavy touch,Open
+28,Mozambique,Light touch,Open
+29,Ghana,None,Cancelled
+30,Madagascar,Very light touch/Website,Closed
+31,Kenya,None,Cancelled
+32,Nigeria,Very light touch/Website,Closed
+33,Malawi,Light touch,Closed
+34,South Africa,None,Cancelled
+35,Burundi,Very light touch/Website,Closed
+36,Burundi,Very light touch/Website,Closed
+37,Mozambique,Heavy touch,Closed
+38,Nigeria,Light touch,Open
+39,Nigeria,None,Pipeline
+40,Cameroon,Light touch,Closed
+41,Gambia,Light touch,Closed
+42,Nigeria,None,Cancelled
+43,Rwanda,Very light touch/Website,Closed
+44,Nigeria,Heavy touch,Closed
+45,Kenya,Heavy touch,Closed
+46,Rwanda,TBD,Open
+47,Ghana,Very light touch/Website,Closed
+48,Uganda,Heavy touch,Closed
+49,Uganda,Heavy touch,Closed
+50,Nigeria,Heavy touch,Closed
+51,Rwanda,Heavy touch,Open
+52,Rwanda,None,Pipeline
+53,Kenya,Very light touch/Website,Closed
+54,Sao Tome Principe,Heavy touch,Closed
+55,Cameroon,Very light touch/Website,Closed
+56,Senegal,None,Cancelled
+57,Senegal,None,Cancelled
+58,Kenya,None,Cancelled
+59,"Ghana, Nigeria, Sierra Leone",None,Cancelled
+60,Zambia,None,Cancelled
+61,Rwanda,Light touch,Open
+62,Senegal,None,Cancelled
+63,Tanzania,Heavy touch,Open
+64,Tanzania,Heavy touch,Open
+65,Tanzania,Light touch,Open
+66,Zambia,Light touch,Closed
+67,Madagascar,Heavy touch,Closed
+68,Uganda,Heavy touch,Open
+69,Rwanda,Heavy touch,Open
+70,Rwanda,Heavy touch,Open
+71,N/A,Heavy touch,Open
+72,DRC,None,Pipeline
+73,DRC,None,Pipeline
+74,Ethiopia,None,Cancelled
+75,Kenya,None,Cancelled
+76,Madagascar,Light touch,Closed
+77,Madagascar,Light touch,Closed
+78,Botswana,None,Cancelled
+79,,None,Cancelled
+80,Zimbabwe,Light touch,Closed
+81,Nigeria,Very light touch/Website,Closed
+82,Tanzania,Light touch,Closed
+83,Burundi,Light touch,Closed
+84,Burundi,Light touch,Closed
+85,Mali,Very light touch/Website,Closed
+86,Nigeria,None,Cancelled
+87,DRC,Light touch,Open
+88,Nigeria,Very light touch/Website,Cancelled
+89,South Africa,None,Cancelled
+90,Guinea,Light touch,Closed
+91,Mali,Heavy touch,Closed
+92,Mali,Heavy touch,Closed
+93,Mali,Heavy touch,Closed
+94,Nigeria,None,Cancelled
+95,Zimbabwe,None,Cancelled
+96,Uganda,Light touch,Open
+97,Uganda,Light touch,Closed
+98,Mauritius,None,Cancelled
+99,Nigeria,Heavy touch,Open
+100,Nigeria,Heavy touch,Open
+101,Nigeria,Heavy touch,Open
+102,Nigeria,Heavy touch,Open
+103,Nigeria,Heavy touch,Open
+104,Nigeria,Heavy touch,Open
+105,Tanzania,Heavy touch,Closed
+106,Ghana,Very light touch/Website,Cancelled
+107,Nigeria,Light touch,Cancelled
+108,Rwanda,Heavy touch,Open
+109,Niger,Very light touch/Website,Cancelled
+110,Nigeria,None,Cancelled
+111,Nigeria,Very light touch/Website,Closed
+112,"Ethiopia, Kenya, Rwanda, Uganda",Heavy touch,Closed
+113,Rwanda,None,Cancelled
+114,Ethiopia,None,Cancelled
+115,Somalia,Light touch,Closed
+116,Rwanda,Heavy touch,Open
+117,Uganda,Heavy touch,Open
+118,Tanzania,Light touch,Closed
+119,DR Congo,Very light touch/Website,Cancelled
+120,Nigeria,Heavy touch,Closed
+121,Zimbabwe,None,Cancelled
+122,Nigeria,Very light touch/Website,Closed
+123,Sierra Leone,None,Cancelled
+124,Liberia,Light touch,Closed
+125,Tanzania,Heavy touch,Closed
+126,Madagascar,Heavy touch,Closed
+127,Madagascar,Heavy touch,Closed
+128,Uganda,Light touch,Closed
+129,Uganda,Light touch,Closed
+130,Nigeria,Very light touch/Website,Cancelled
+131,Cameroon,Light touch,Closed
+132,Malawi,Light touch,Closed
+133,Rwanda,Heavy touch,Closed
+134,Rwanda,Heavy touch,Closed
+135,Rwanda,Heavy touch,Closed
+136,Nigeria,None,Cancelled
+137,Uganda,Very light touch/Website,Cancelled
+138,Tanzania,None,Cancelled
+139,Cote d'Ivoire,None,Cancelled
+140,Nigeria,None,Cancelled
+141,Nigeria,None,Cancelled
+142,Nigeria,Very light touch/Website,Cancelled
+143,Zambia,Very light touch/Website,Closed
+144,Zimbabwe,Very light touch/Website,Closed
+145,Nigeria,Light touch,Closed
+146,Tanzania,None,Cancelled
+147,DR Congo,Light touch,Closed
+148,Cote d'Ivoire,None,Cancelled
+149,Nigeria,Light touch,Cancelled
+150,Lesotho,Heavy touch,Closed
+151,Lesotho,Heavy touch,Closed
+152,Lesotho,Heavy touch,Closed
+153,Nigeria,Very light touch/Website,Closed
+154,Togo,None,Cancelled
+155,Nigeria,None,Cancelled
+156,"Mauritius, Seychelles",None,Cancelled
+157,Sierra Leone,Heavy touch,Open
+158,Benin,Light touch,Closed
+159,Benin,None,Closed
+160,Benin,None,Closed
+161,Kenya/Tanzania,None,Cancelled
+162,Nigeria,None,Cancelled
+163,Nigeria,None,Cancelled
+164,"Sierra Leone, Tanzania",None,Cancelled
+165,"South Africa, Zambia",None,Cancelled
+166,"Botswana, Zambia, Mozambique, Lesotho",None,Cancelled
+167,Ghana,None,Cancelled
+168,Rwanda,Very light touch/Website,Closed
+169,Cameroon,Light touch,Closed
+170,Cameroon,Light touch,Closed
+171,Kenya,Light touch,Open
+172,Kenya,Heavy touch,Closed
+173,Ghana,Very light touch/Website,Cancelled
+174,Kenya,None,Cancelled
+175,Tanzania,Light touch,Closed
+176,Gambia,None,Cancelled
+177,Tanzania,Light touch,Open
+178,Tanzania,Light touch,Open
+179,Nigeria,Heavy touch,Closed
+180,Nigeria,None,Closed
+181,Kenya,Heavy touch,Closed
+182,Kenya,Heavy touch,Closed
+183,N/A,Heavy touch,Closed
+184,Nigeria,Light touch,Closed
+185,Chad,None,Cancelled
+186,Nigeria,Heavy touch,Closed
+187,Nigeria,None,Cancelled
+188,Senegal,Light touch,Closed
+189,Benin,Very light touch/Website,Closed
+190,Burundi,Very light touch/Website,Closed
+191,Bukina Faso,None,Cancelled
+192,Togo,None,Cancelled
+193,Madagascar,Light touch,Closed
+194,Madagascar,Light touch,Closed
+195,Benin,Heavy touch,Closed
+196,Ethiopia,Light touch,Closed
+197,Cameroon,Light touch,Closed
+198,Cameroon,Light touch,Closed
+199,Somalia,Light touch,Closed
+200,Somalia,Light touch,Closed
+201,Togo/Benin,Heavy touch,Closed
+202,Zambia,Heavy touch,Closed
+203,Nigeria,Very light touch/Website,Closed
+204,"Benin, Burkina Faso, Togo",Light touch,Closed
+205,Senegal,Very light touch/Website,Closed
+206,Cape Verde,Light touch,Closed
+207,Somalia,Light touch,Closed
+208,Tanzania,None,Cancelled
+209,Uganda,Light touch,Closed
+210,Nigeria,Very light touch/Website,Closed
+211,Benin,Very light touch/Website,Closed
+212,Ghana,None,Cancelled
+213,Kenya,Light touch,Closed
+214,South Africa,None,Cancelled
+215,DR Congo,None,Cancelled
+216,Nigeria,None,Cancelled
+217,Malawi,Light touch,Closed
+218,Malawi,Light touch,Closed
+219,Malawi,Light touch,Closed
+220,Nigeria,Heavy touch,Closed
+221,Nigeria,Heavy touch,Closed
+222,Cameroon,None,Cancelled
+223,Uganda,None,Cancelled
+224,Nigeria,Heavy touch,Open
+225,Zambia,Heavy touch,Closed
+226,Zambia,None,Closed
+227,Zambia,None,Closed
+228,Zambia,None,Closed
+229,Kenya,None,Closed
+230,Nigeria,Light touch,Cancelled
+231,Malawi,Heavy touch,Closed
+232,NIgeria,None,Cancelled
+233,TBD,Very light touch/Website,Closed
+234,Uganda,Light touch,Cancelled
+235,"Sierra Leone, Uganda",TBD,Open
+236,Zambia,Light touch,Closed
+237,Uganda,None,Cancelled
+238,South Africa,None,Cancelled
+239,Nigeria,Heavy touch,Closed
+240,Nigeria,Heavy touch,Closed
+241,Zambia,Very light touch/Website,Closed

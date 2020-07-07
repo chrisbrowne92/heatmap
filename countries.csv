@@ -1,0 +1,44 @@
+﻿code,country,friendly,priority
+BDI,Burundi,Burundi,0
+BEN,Benin,Benin,0
+BFA,Burkina Faso,Burkina Faso,2
+BFA,Bukina Faso,Burkina Faso,2
+BWA,Botswana,Botswana,0
+CIV,Côte d'Ivoire,Côte d'Ivoire,0
+CIV,Cote d'Ivoire,Côte d'Ivoire,0
+CMR,Cameroon,Cameroon,0
+COD,"Congo, the Democratic Republic of the",DR Congo,2
+COD,DR Congo,DR Congo,2
+COD,DRC,DR Congo,2
+CPV,Cape Verde,Cape Verde,0
+ETH,Ethiopia,Ethiopia,0
+GHA,Ghana,Ghana,0
+GIN,Guinea,Guinea,1
+GMB,Gambia,Gambia,0
+KEN,Kenya,Kenya,0
+LBR,Liberia,Liberia,0
+LSO,Lesotho,Lesotho,0
+MDG,Madagascar,Madagascar,1
+MLI,Mali,Mali,2
+MOZ,Mozambique,Mozambique,2
+MRT,Mauritania,Mauritania,2
+MUS,Mauritius,Mauritius,0
+MWI,Malawi,Malawi,0
+NER,Niger,Niger,2
+NGA,Nigeria,Nigeria,1
+NGA,Nlgeria,Nigeria,1
+RWA,Rwanda,Rwanda,1
+SEN,Senegal,Senegal,0
+SLE,Sierra Leone,Sierra Leone,0
+SOM,Somalia,Somalia,0
+SSD,South Sudan,South Sudan,2
+STP,Sao Tome and Principe,Sao Tome and Principe,0
+STP,Sao Tome Principe,Sao Tome and Principe,0
+TCD,Chad,Chad,2
+TGO,Togo,Togo,1
+TZA,"Tanzania, United Republic of",Tanzania,0
+TZA,Tanzania,Tanzania,0
+UGA,Uganda,Uganda,0
+ZAF,South Africa,South Africa,0
+ZMB,Zambia,Zambia,0
+ZWE,Zimbabwe,Zimbabwe,0
